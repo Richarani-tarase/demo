@@ -1,4 +1,5 @@
 # demo
-This my first Repository
+This is my first Repository
 <br>
-Richarani
+Auther - Richarani Tarase
+
